@@ -1,8 +1,11 @@
 # Tareas Analisis de Algoritmos
-Repositorio para las tareas de analisis de algortimos
+Repositorio para las tareas de analisis de algortimos Daniel Martinez Martinez
 
 # Tarea 1
-PENDIENTES: Actualizar perfil linkedin experiencias ultimos 2 años
+Perfil LinkedIn
 
 # Tarea 2
 ![Tarea-2](\Tarea_2\README.md)
+
+# Tarea 3
+![Tarea-3](\Tarea_3\README.md)
