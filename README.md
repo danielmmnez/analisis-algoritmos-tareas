@@ -12,3 +12,6 @@ Perfil LinkedIn
 
 # Tarea 4
 ![Tarea-4](\Tarea_4\README.md)
+
+# Taller 1
+![Taller-1](\Taller_1\README.md)
